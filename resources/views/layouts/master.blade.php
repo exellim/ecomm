@@ -26,7 +26,17 @@
     .custom-login{
         height: 500px;
         padding-top: 100px;
-        
+    }
+    .slider-img{
+        height: 400px !important;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .custom-product{
+        height: 600px;
+    }
+    .slider-text{
+        background-color: #35443585 !important
     }
 </style>
 </html>
