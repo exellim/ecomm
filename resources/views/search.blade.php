@@ -17,6 +17,7 @@
                       <h5>{{$item['description']}}</h5>
                   </div>
               </a>
+                </div>
                   @endforeach
             </div>
     </div>
